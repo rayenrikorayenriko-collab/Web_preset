@@ -1,0 +1,74 @@
+{
+  "settings": {
+    "siteTitle": "Kessoku Family999",
+    "siteTagline": "Preview & Rekomendasi Musik",
+    "siteDescription": "Kumpulan preview karya dan rekomendasi musik pilihan buat keluarga Kessoku. Pilih kategori di bawah untuk mulai menjelajah.",
+    "logoUrl": "",
+    "accentColor": "#0000ff",
+    "footerText": "© Kessoku Family"
+  },
+  "categories": [
+    {
+      "id": "cat_demo1",
+      "name": "Music Covers",
+      "description": "Cover lagu dari member",
+      "order": 0
+    },
+    {
+      "id": "cat_demo2",
+      "name": "Behind The Scene",
+      "description": "Momen di balik layar",
+      "order": 1
+    },
+    {
+      "name": "Yy",
+      "description": "",
+      "id": "cat_mwrccqra22cf11",
+      "order": 2
+    }
+  ],
+  "previews": [
+    {
+      "id": "prv_demo1",
+      "categoryId": "cat_demo1",
+      "title": "Contoh Preview",
+      "description": "Ini contoh paket preview. Upload video/foto, tulis penjelasan, dan tambah tombol sebanyak apa pun.",
+      "media": {
+        "type": "image",
+        "url": "",
+        "poster": ""
+      },
+      "buttons": [
+        {
+          "label": "Tonton Sekarang",
+          "url": "https://example.com"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://instagram.com"
+        }
+      ],
+      "order": 0
+    },
+    {
+      "title": "Jj",
+      "description": "",
+      "categoryId": "cat_mwrccqra22cf11",
+      "size": "auto",
+      "media": {},
+      "buttons": [],
+      "id": "pre_mwrcd6x524725d",
+      "order": 1
+    }
+  ],
+  "banners": [
+    {
+      "id": "ban_mwrc9551dd843e",
+      "title": "5gg",
+      "link": "ggg",
+      "media": {},
+      "order": 0
+    }
+  ],
+  "music": []
+}
